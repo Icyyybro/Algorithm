@@ -42,6 +42,7 @@ int find(int x)
         }
     }
     return sum;
+    
 }
 
 int main()
