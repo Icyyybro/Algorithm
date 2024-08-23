@@ -455,6 +455,7 @@ void up_heap(int p[], int u, int size)
 	}
 }
 
+
 void insert_hash(int x, int head[], int e[], int next[], int& idx)
 {
 	int k = (x % MAX_NUM + MAX_NUM) % MAX_NUM;
@@ -791,7 +792,6 @@ int prim(int graph[][MAX_NUM], int n)
 		for (int j = 0; j < n; j++)
 			distance[j] = min(distance[j], graph[t][j]);
 	}
-
 	return res;
 }
 
