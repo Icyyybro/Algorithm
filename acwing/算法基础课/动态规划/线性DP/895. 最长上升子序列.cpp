@@ -5,7 +5,6 @@ int n;
 int a[1010];
 int f[1010];
 
-
 int main()
 {
     cin >> n;
