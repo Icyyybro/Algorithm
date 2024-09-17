@@ -21,6 +21,11 @@
     "forward_list": "cpp",
     "random": "cpp",
     "tuple": "cpp",
-    "cmath": "cpp"
+    "cmath": "cpp",
+    "barrier": "cpp",
+    "chrono": "cpp",
+    "latch": "cpp",
+    "limits": "cpp",
+    "semaphore": "cpp"
   }
 }
