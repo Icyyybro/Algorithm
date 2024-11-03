@@ -1,6 +1,6 @@
 # 4 KMP算法
 
-![](image/image_SSK0-DdkAw.png)
+![](image/image_sYOVBVSpKN.png)
 
 首先算出next数组，再计算匹配。
 
