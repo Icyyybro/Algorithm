@@ -2,7 +2,7 @@
 
 # 1. 题目
 
-![](image/image_MqMWbau4oZ.png)
+![](image/image_sP2uEHofqG.png)
 
 # 2. 思路
 

@@ -8,7 +8,7 @@
 
 进阶：你能尝试使用一趟扫描实现吗？
 
-![](image/remove_ex1_yG4hq7X9HO.jpg)
+![](image/remove_ex1_cEjqnTwmSw.jpg)
 
 # 2. 算法
 
