@@ -2,8 +2,8 @@
 
 # 1. 题目
 
-![](image/image_X1pa9VvKvB.png)
+![](image/image_5-Y5jN_O4_.png)
 
 # 2. 题解
 
-![](image/image_UDg5GwtZPA.png)
+![](image/image_S_1d2X6oYt.png)
