@@ -4,13 +4,13 @@
 
 ## 1.1 题目
 
-![](image/image_p8TUFoaprx.png)
+![](image/image_czMxBKbyKu.png)
 
 ## 1.2 题解
 
-![](image/image_gKlPgutlFg.png)
+![](image/image_ZRkmtFBx8Z.png)
 
-![](image/image_6PR4PyxE0D.png)
+![](image/image_SBwXuRa_5N.png)
 
 ## 1.3 代码
 
@@ -54,7 +54,7 @@ int main()
 
 ## 2.1 题目
 
-![](image/image_uodRiVU4iF.png)
+![](image/image_3-EPehe7fg.png)
 
 ## 2.2 题解
 
@@ -152,7 +152,7 @@ int main()
 
 ## 3.1 题目
 
-![](image/image_LoaArcBm3J.png)
+![](image/image_nTBTzRpAJv.png)
 
 ## 3.2 题解
 
@@ -193,7 +193,7 @@ int main()
 
 ## 4.1 题目
 
-![](image/image_5l-epbCc9B.png)
+![](image/image_jqujUXWLVF.png)
 
 ## 4.2 题解
 
@@ -201,7 +201,7 @@ f\[i]\[j]记录的是：从字符串a的前i个元素变到字符串b的前j个�
 
 每新增一个字符，会有四种操作：删除，插入，替换，不变化
 
-![](image/image_Wt3J3hAR2z.png)
+![](image/image_eDaQcsTzjp.png)
 
 ```c++
 #include<iostream>
